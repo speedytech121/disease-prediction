@@ -1,6 +1,5 @@
 # disease-prediction
-
-_______________setup__________________
+______________SETUP______________
 
 1. download the zip file
 
@@ -14,12 +13,12 @@ _______________setup__________________
 
 
 
-_________________Requirements___________
+__________REQUIREMENTS__________
 
-python, machine lerning liabraries, dbbrowser, anaconda or pycharm or vscode
+python, machine lerning libraries, Dbbrowser, anaconda or pycharm or vscode
 
 
-______________libraries________________
+______________LIBRARIES______________
 
 numpy
 pandas
@@ -33,26 +32,13 @@ speechrecognition
 
 ___________project running ______________
 
-
-
 look for the file **home.py**
 and run this file
 
-
-
 ![alt text](https://1.bp.blogspot.com/-2njAQOTxmYI/YDkeAoPczhI/AAAAAAAAWnI/X0bsYeIFFN0K7xNNVcEfnirvWWNooDBIACNcBGAsYHQ/w772-h435/1.PNG)
-
-
-
 ![alt text](https://1.bp.blogspot.com/-EOAzkZG-WW0/YDkeAjOoQ-I/AAAAAAAAWnE/zOC_LHQD7gwSMbxZrWwPZQVWdVSvtrNSwCNcBGAsYHQ/s1741/2.PNG)
-
-
-
 ![alt text](https://1.bp.blogspot.com/-txZl6RUVaQQ/YDkeAaHg5xI/AAAAAAAAWnA/0z4x5AVllHMLpQQx4c7hMqIgvnPgDZ6wACNcBGAsYHQ/s1920/3.PNG)
-
 ![alt text](https://1.bp.blogspot.com/-6ED8fUdx3YI/YDkeBy9Rt0I/AAAAAAAAWnQ/vBUIJhMigl0sAkJwOdKJdN6B2mZ4Rf9bQCNcBGAsYHQ/s1920/5.PNG)
-
-
 ![alt text](https://1.bp.blogspot.com/-0W9yp9-Z3j8/YDkeBRYObAI/AAAAAAAAWnM/4uiolVUOUWgTKoRGj_XNufYRoV6iAqx4wCNcBGAsYHQ/s1920/4.PNG)
 ![alt text](https://1.bp.blogspot.com/-qyMLEpscjBw/YDkeB_dLFfI/AAAAAAAAWnU/3t-EwnZwteICdNx8SKEyf_xKm6_x1RfNwCNcBGAsYHQ/s1815/6.PNG)
 ![alt text](https://1.bp.blogspot.com/-LmNx43By5sU/YDkeCES9hwI/AAAAAAAAWnY/X1thNq0lJhMYvMUsdUNrjlce09sy4H8iwCNcBGAsYHQ/s1826/7.PNG)
